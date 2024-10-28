@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "66db2cde9e6285b5788901de"
+  },
+  "title": "Quiz 1",
+  "description": "This is a general knowledge quiz",
+  "questions": [
+    {
+      "$oid": "66db3abb1fd7f2ea4238d60c"
+    },
+    {
+      "$oid": "66db3ac71fd7f2ea4238d60e"
+    },
+    {
+      "$oid": "66db3ad21fd7f2ea4238d610"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66db2ce59e6285b5788901e0"
+  },
+  "title": "Quiz 2",
+  "description": "This is a general knowledge quiz",
+  "questions": [
+    {
+      "$oid": "66db3ad91fd7f2ea4238d612"
+    },
+    {
+      "$oid": "66db3adf1fd7f2ea4238d614"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee59dbe8a167bd1a2cc90b"
+  },
+  "title": "Science Quiz 3",
+  "description": "Test your knowledge of science concepts!",
+  "questions": [
+    {
+      "$oid": "66ee5a5fe8a167bd1a2cc90d"
+    }
+  ],
+  "__v": 5
+}]

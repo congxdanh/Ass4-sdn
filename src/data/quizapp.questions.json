@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "66db3abb1fd7f2ea4238d60c"
+  },
+  "text": "What is the tallest mountain in the world?",
+  "options": [
+    "Mount Everest",
+    "K2",
+    "Kangchenjunga",
+    "Lhotse"
+  ],
+  "keywords": [
+    "tallest",
+    "mountain"
+  ],
+  "correctAnswerIndex": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66db3ac71fd7f2ea4238d60e"
+  },
+  "text": "Which planet is closest to the Sun?",
+  "options": [
+    "Mercury",
+    "Venus",
+    "Earth",
+    "Mars"
+  ],
+  "keywords": [
+    "planet",
+    "sun"
+  ],
+  "correctAnswerIndex": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66db3ad21fd7f2ea4238d610"
+  },
+  "text": "What is the longest river in the world?",
+  "options": [
+    "Amazon",
+    "Nile",
+    "Yangtze",
+    "Mississippi"
+  ],
+  "keywords": [
+    "longest",
+    "river"
+  ],
+  "correctAnswerIndex": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66db3ad91fd7f2ea4238d612"
+  },
+  "text": "Which country has the largest population?",
+  "options": [
+    "India",
+    "USA",
+    "China",
+    "Indonesia"
+  ],
+  "keywords": [
+    "largest",
+    "population"
+  ],
+  "correctAnswerIndex": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66db3adf1fd7f2ea4238d614"
+  },
+  "text": "Which chemical element has the symbol 'H'?",
+  "options": [
+    "Helium",
+    "Hydrogen",
+    "Hafnium",
+    "Holmium"
+  ],
+  "keywords": [
+    "element",
+    "symbol"
+  ],
+  "correctAnswerIndex": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee5a5fe8a167bd1a2cc90d"
+  },
+  "text": "What is the capital of France?",
+  "options": [
+    "Paris",
+    "London",
+    "Berlin",
+    "Madrid"
+  ],
+  "keywords": [],
+  "correctAnswerIndex": 0,
+  "__v": 0
+}]
